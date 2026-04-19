@@ -7,7 +7,7 @@ All servos move together in a smooth sweeping motion, then stop at a fixed posit
 
 ## 📷 Wiring Diagram
 
-![Wiring Diagram](images/wiring.png)
+<img width="643" height="517" alt="image" src="https://github.com/user-attachments/assets/793619ba-db1e-4d23-97eb-74215fe26492" />
 
 ---
 
